@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Silvio Dias</h1>
-<h3 align="center">A front end developer and full stack student fron Brazil</h3>
+<h3 align="center">A front end developer and full stack student from Brazil</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
