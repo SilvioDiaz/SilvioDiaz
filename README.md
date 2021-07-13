@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **silviodias8885@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEjWKPxgvI/YvLf7wU3UNpt3DGVKreIsg/view?utm_content=DAEjWKPxgvI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAEjWKPxgvI/YvLf7wU3UNpt3DGVKreIsg/view?utm_content=DAEjWKPxgvI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- 📄 Know about my experiences https://tinyurl.com/curriculoSilvio
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
