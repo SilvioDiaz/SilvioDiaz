@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Silvio Dias</h1>
 <h3 align="center">A front end developer and full stack student from Brazil</h3>
 
-- 🌱 I’m currently learning **Typescript**
-
 - 📝 I regularly write articles on [www.gamelodge.com.br](www.gamelodge.com.br)
 
-- 💬 Ask me about **React JS and Wordpress**
+- 💬 Ask me about **React JS and Next JS and Typescript**
 
 - 📫 How to reach me **silviodias8885@gmail.com**
 
